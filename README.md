@@ -1,1 +1,1 @@
-Lil Nas X
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTamanini&show_icons=true&theme=radical)
