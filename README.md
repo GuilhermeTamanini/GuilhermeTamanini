@@ -2,6 +2,6 @@
 <div> 
 <h2>Atualmente estou utilizando:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,vue,react,html,css,javascript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=django,python,vue,react,html,css,javascript,bootstrap,git" />
   </a>
 </div>
