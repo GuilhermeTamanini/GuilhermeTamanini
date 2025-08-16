@@ -2,6 +2,6 @@
 <div> 
 <h2>Atualmente estou utilizando:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,react,mysql,html,css,javascript,git,python,django,vue,postgres,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=php,java,react,mysql,javascript,git,postgres,dart,flutter" />
   </a>
 </div>
